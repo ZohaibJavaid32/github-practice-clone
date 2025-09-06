@@ -1,6 +1,6 @@
 1 ) git clone <your GitHub link>
-2 ) git config --global user.email "<your email>"
-3 ) git config --global user.name "<your name>"
+2 ) git config --global user.email "<your email>"  # only first time
+3 ) git config --global user.name "<your github-acc-name>" # onlt first time.
 4 ) git status
 5 ) git add <filename> | git add <file1> <file2>
 6 ) git commit -m "Any message."  
